@@ -8,7 +8,7 @@ Some Features:
 -   👌 Global state management with Zustand
 -   🐞 Error handling both on the server and on the client
 
-### Build the app (I have already built it)
+### Build the app
 
 ```shell
 npm run build
